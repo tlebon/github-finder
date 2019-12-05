@@ -35,6 +35,6 @@ Save the repository selection so that the user can see the previous selection ne
 
 
 ## stretch Goals
-pagination for dropdown list
-links from card to github
-toggle list onChange, instead of on button click
+* pagination for dropdown list
+* links from card to github
+* toggle list onChange, instead of on button click
