@@ -38,3 +38,4 @@ Save the repository selection so that the user can see the previous selection ne
 * pagination for dropdown list
 * links from card to github
 * toggle list onChange, instead of on button click
+* figure out why dotenv isnt working
