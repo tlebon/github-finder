@@ -11,7 +11,7 @@ import logo from "./logo.svg";
 import "./App.css";
 
 // Yes, this is an unsafe way ;)
-const TOKEN = "01fe7a08bf7df708b53864406175f1f724adfa24"; // <-- TODO: place your token here TODO: move to env file before publishing
+const TOKEN = "put token here"; // <-- TODO: place your token here TODO: move to env file before publishing
 
 const client = new ApolloClient({
   link: new HttpLink({
